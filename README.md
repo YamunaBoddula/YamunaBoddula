@@ -20,6 +20,58 @@
 <a href="https://linkedin.com/in/linkedin.com/in/yamuna-boddula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yamuna-boddula" height="30" width="40" /></a>
 </p>
 
+# 🎵 Spotify Music Data Analysis 🎶  
+📅 **Dec 2024 – Jan 2025**  
+
+![Spotify Banner](https://raw.githubusercontent.com/yourusername/repository/main/assets/spotify_banner.png)
+
+## 📌 Project Overview  
+This project explores **500,000+ Spotify tracks** to analyze music trends and listener behavior. By leveraging **Python, Power BI, and AI-driven metadata enhancement**, the project delivers **interactive dashboards and actionable insights** for music analytics.
+
+---
+
+## 🚀 Key Features  
+✅ **Data Retrieval**: Collected **500,000+** tracks from Spotify API.  
+✅ **AI Integration**: Used **ChatGPT** to generate **1,000+** descriptive track summaries.  
+✅ **Interactive Dashboards**: Built **5 Power BI dashboards** with **Deneb custom visuals** and **HTML elements**.  
+✅ **UI/UX Design**: Implemented **glassmorphism design**, increasing engagement by **30%**.  
+✅ **Business Impact**: Presented data-driven insights to **10+ stakeholders**.  
+
+---
+
+## 📊 Dashboard Preview  
+### 🎨 Glassmorphism Power BI Dashboard  
+![Dashboard Preview](https://raw.githubusercontent.com/yourusername/repository/main/assets/dashboard_preview.png)  
+
+### 📌 Track Metadata with AI-Generated Summaries  
+![Metadata Preview](https://raw.githubusercontent.com/yourusername/repository/main/assets/metadata_preview.png)
+
+---
+
+## 🛠️ Tech Stack  
+- **Python** (Spotify API, ChatGPT Integration)  
+- **Power BI** (Deneb Custom Visuals, HTML Elements)  
+- **Data Analysis** (Pandas, NumPy, Matplotlib)  
+- **Design** (Glassmorphism, UI/UX Principles)  
+
+---
+
+## 📈 Insights & Results  
+🎵 **Popular Genres**: Identified top-performing genres and their trends.  
+📊 **Engagement Metrics**: Analyzed **listener behavior** to predict song success.  
+📌 **Strategic Impact**: Helped stakeholders make **data-driven music decisions**.  
+
+---
+
+## 📂 Repository Structure  
+```bash
+📂 Spotify-Music-Analysis
+├── 📁 data                    # Raw & processed data
+├── 📁 scripts                 # Python scripts (Data extraction, ChatGPT integration)
+├── 📁 dashboards              # Power BI dashboards
+├── 📁 assets                  # Images & documentation assets
+└── README.md                  # Project overview
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
